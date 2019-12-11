@@ -1,5 +1,5 @@
 {
-  "name": "ngx-currency-mask-generator",
+  "name": "ngx-currency-angular-mask-generator",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "ngx-spanish-pipe-build": "ng build ngx-spanish-pipe & cp READMEPIPE.md dist/ngx-spanish-pipe/README.md & cp LICENSE dist/ngx-spanish-pipe/LICENSE",
-    "ngx-currency-mask-build": "ng build ngx-currency-mask & cp READMEMASK.md dist/ngx-currency-mask/README.md & cp LICENSE dist/ngx-currency-mask/LICENSE"
+    "ngx-currency-angular-mask-build": "ng build ngx-currency-angular-mask & cp READMEMASK.md dist/ngx-currency-angular-mask/README.md & cp LICENSE dist/ngx-currency-angular-mask/LICENSE"
   },
   "private": true,
   "dependencies": {

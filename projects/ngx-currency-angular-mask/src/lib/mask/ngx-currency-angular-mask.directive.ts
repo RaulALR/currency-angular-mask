@@ -1,5 +1,5 @@
 import { OnInit, Input, Directive, OnDestroy, ElementRef } from '@angular/core';
-import { NgxCurrencyService } from './ngx-currency-mask.service';
+import { NgxCurrencyService } from './ngx-currency-angular-mask.service';
 import { fromEvent, Observable, BehaviorSubject, Subscription } from 'rxjs';
 import { ICurrencyConfig } from '../interface/ICurrencyConfig';
 

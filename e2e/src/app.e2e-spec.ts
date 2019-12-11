@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('ngx-currency-mask-generator app is running!');
+    expect(page.getTitleText()).toEqual('ngx-currency-angular-mask-generator app is running!');
   });
 
   afterEach(async () => {

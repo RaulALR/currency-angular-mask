@@ -19,11 +19,11 @@
       "dom"
     ],
     "paths": {
-      "ngx-currency-mask": [
-        "dist/ngx-currency-mask"
+      "ngx-currency-angular-mask": [
+        "dist/ngx-currency-angular-mask"
       ],
-      "ngx-currency-mask/*": [
-        "dist/ngx-currency-mask/*"
+      "ngx-currency-angular-mask/*": [
+        "dist/ngx-currency-angular-mask/*"
       ],
       "ngx-spanish-pipe": [
         "dist/ngx-spanish-pipe"

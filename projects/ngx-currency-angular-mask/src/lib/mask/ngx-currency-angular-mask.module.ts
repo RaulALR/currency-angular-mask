@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { NgxCurrencyDirective } from './ngx-currency-mask.directive';
+import { NgxCurrencyDirective } from './ngx-currency-angular-mask.directive';
 
 @NgModule({
     imports: [],

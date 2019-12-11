@@ -16,16 +16,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'ngx-currency-mask-generator'`, () => {
+  it(`should have as title 'ngx-currency-angular-mask-generator'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('ngx-currency-mask-generator');
+    expect(app.title).toEqual('ngx-currency-angular-mask-generator');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('ngx-currency-mask-generator app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('ngx-currency-angular-mask-generator app is running!');
   });
 });

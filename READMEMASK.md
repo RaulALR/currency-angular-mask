@@ -4,10 +4,10 @@
 Install the generator: 
 
 ```sh
-    npm install ngx-currency-mask
+    npm install ngx-currency-angular-mask
 ```
 
-ngx-currency-mask is a directive that tansforms a number without dot and commas to spanish format (1000000 => 1.000.000)
+ngx-currency-angular-mask is a directive that tansforms a number without dot and commas to spanish format (1000000 => 1.000.000)
 
 ## Usage
 
