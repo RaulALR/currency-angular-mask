@@ -7,4 +7,4 @@ import { NgxPipeUtils } from './ngx-spanish-pipe.utils';
     declarations: [SpanishDecimalPipe],
     providers: [NgxPipeUtils]
 })
-export class SpanishDecimalPipeModule {}
+export class NgxSpanishPipeModule {}
