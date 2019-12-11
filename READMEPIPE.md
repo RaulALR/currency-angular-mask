@@ -31,6 +31,6 @@ It contains a pipe that tansforms a number without dot and commas to spanish for
 The module thtat contains the currency mask is this: `NgxSpanishPipeModule`. And it is used as follows:
 
 ```html
-<td>{{number | bnpNumberEsPipe:'number of decimals'}}</td>
+<td>{{number | NgxNumberEsPipe:'number of decimals'}}</td>
 ```
 
