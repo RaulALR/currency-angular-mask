@@ -1,9 +1,4 @@
 # Ngx currency mask
-
-- [ngx-external-services](#BPNcurrencycomponent)
-    - [Introduction](#Introduction)
-    - [Usage](#Usage)
-
 ## Introduction
 
 Install the generator: 

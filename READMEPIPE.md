@@ -1,9 +1,4 @@
 # Ngx spanish pipe
-
-- [ngx-external-services](#BPNcurrencycomponent)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-
 ## Installation
 
 Install the generator:
